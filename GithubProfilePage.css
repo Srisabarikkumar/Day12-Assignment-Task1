@@ -1,0 +1,28 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: #cad2c5;
+}
+
+.heading {
+    color: white;
+    margin-left: 45%;
+    position: relative;
+    display: inline;
+}
+
+.github-image {
+    position: relative;
+    display: inline;
+    top: 20px;
+    left: 20px;
+    background: #2f3d47;
+}
+
+.navElem {
+    /* background: rgb(48, 60, 62); */
+    background: #2f3d46;
+    height: 100px;
+    
+}
